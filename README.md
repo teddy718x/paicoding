@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> 本仓库 Fork 自开源项目 [itwanger/paicoding](https://github.com/itwanger/paicoding)。
+> 本副本用于个人学习与二次开发，登录会话、活跃排行榜、异步执行与缓存相关的学习记录和代码索引见
+> [PORTFOLIO.md](PORTFOLIO.md)。代码归属与运行方式以原项目说明为基础。
+
 <p align="center">
   <a href="https://paicoding.com/">
     <img src="https://cdn.tobebetterjavaer.com/images/README/1681354262213.png" alt="技术派，让技术也能很好玩" width="400">
